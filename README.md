@@ -1,8 +1,8 @@
-An ES2015, jspm, babel implementation of the official Angular 2 tutorial; https://angular.io/docs/js/latest/quickstart.html
+An implementation of the official Angular 2 tutorial; https://angular.io/docs/js/latest/quickstart.html
 
 ## Setup
 
-This is a lightweight setup leveraging [jspm](http://jspm.io/), [Babel](https://babeljs.io/) and [system.js](https://www.google.de/search?q=system.js&oq=system.js&aqs=chrome..69i57j69i60.1774j0j4&sourceid=chrome&es_sm=91&ie=UTF-8).
+This is a lightweight setup leveraging [jspm](http://jspm.io/), [system.js](https://www.google.de/search?q=system.js&oq=system.js&aqs=chrome..69i57j69i60.1774j0j4&sourceid=chrome&es_sm=91&ie=UTF-8) and Typescript.
 
 All you should need to do is pull down this repo, and then;
 
